@@ -1,0 +1,5 @@
+C:\Users\kison\Desktop\Snake2.exe
+C:\Users\kison\Desktop\Snake2.dll
+C:\Users\kison\Desktop\Snake2.deps.json
+C:\Users\kison\Desktop\Snake2.runtimeconfig.json
+C:\Users\kison\Desktop\Snake2.pdb

@@ -1,0 +1,15 @@
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.csproj.AssemblyReference.cache
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.AssemblyInfoInputs.cache
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.AssemblyInfo.cs
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.csproj.CoreCompileInputs.cache
+D:\Projects\Scripts\Snake2\Snake2\bin\Debug\net6.0\Snake2.exe
+D:\Projects\Scripts\Snake2\Snake2\bin\Debug\net6.0\Snake2.deps.json
+D:\Projects\Scripts\Snake2\Snake2\bin\Debug\net6.0\Snake2.runtimeconfig.json
+D:\Projects\Scripts\Snake2\Snake2\bin\Debug\net6.0\Snake2.dll
+D:\Projects\Scripts\Snake2\Snake2\bin\Debug\net6.0\Snake2.pdb
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.dll
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\refint\Snake2.dll
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.pdb
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\Snake2.genruntimeconfig.cache
+D:\Projects\Scripts\Snake2\Snake2\obj\Debug\net6.0\ref\Snake2.dll
